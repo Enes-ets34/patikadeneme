@@ -9,4 +9,6 @@
 .history/
 *.png
 img/
+password.txt
+node_modules
 #log
