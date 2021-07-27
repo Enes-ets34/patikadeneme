@@ -1,0 +1,34 @@
+body {
+  font-family: system-ui;
+}
+a {
+  text-decoration-line: none;
+  color: brown;
+}
+header,
+article,
+h1,
+h2 {
+  text-align: center;
+}
+li {
+
+  display: inline;
+}
+.list-item {
+  margin-left: 10px;
+}
+#mainArticle,
+article {
+  margin-top: 20px;
+}
+img.thumbnail {
+  height: 200px;
+  width: 250px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+p.filmTitle {
+  color: cornflowerblue;
+  font-size: 30px;
+}
