@@ -1,0 +1,54 @@
+body {
+  background-color: #fafafa;
+}
+header {
+  background-color: #fff;
+}
+
+.story {
+  height: 110px;
+  width: 110px;
+  padding: 2px;
+  text-align: center;
+  overflow:visible;
+}
+.story img {
+  height: 66px;
+  width: 66px;
+  max-width: 100%;
+  border-radius: 50%;
+  border: 2px solid #e1306c;
+  padding: 1px;
+}
+.story-owner {
+  letter-spacing: 0.01em;
+  font-size: 12px;
+}
+
+.avatar-sm {
+  width: 22px;
+  height: 22px;
+  border-radius: 100%;
+}
+.avatar-md {
+  width: 42px;
+  height: 42px;
+  border-radius: 100%;
+}
+.avatar-big {
+  width: 66px;
+  height: 66px;
+  border-radius: 100%;
+}
+
+.card-title svg {
+  margin: 5px;
+}
+.input-group-text {
+  border: 0;
+  background:transparent;
+  text-align: start;
+}
+header{
+  margin-bottom: 10px !important;
+}
