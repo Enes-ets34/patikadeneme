@@ -8,15 +8,17 @@
 `3. [2,6,16,22,27,18]`
 `4. [2,6,16,18,22,27]`
 
-####Big-O gösterimini yazınız.
-####Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
-####Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
-`18 sayısı`,**Avarage case kapsamında olur.**
+----
+
+#### Big-O gösterimini yazınız.
+#### Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+#### Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+`18 sayısı`, **Avarage case kapsamında olur.**
 
 
 
 
-##[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 `1. [2,7,3,5,8,9,4,15,6]`
 `2. [2,3,7,5,8,9,4,15,6]`
