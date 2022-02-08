@@ -1,6 +1,6 @@
 #Proje 2 ###[16,21,11,8,12,22] -> Merge Sort
 
-1.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+1.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız. \
 `öncelikle arrayimizi 2'ye bölüyoruz.Tek veya çift eleman kalana kadar devam ediyoruz.`\
 `1.[16,21,11] [8,12,22]` \
 `2.[16,21,11] [8,12,22]` \
